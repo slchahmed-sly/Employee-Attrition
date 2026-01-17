@@ -63,7 +63,7 @@ Both **Logistic Regression** and **SVM** performed best on this dataset.
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/slchahmed-sly/repo-name.git](https://github.com/slchahmed-sly/repo-name.git)
+   git clone [https://github.com/slchahmed-sly/Employee-Attrition.git](https://github.com/slchahmed-sly/Employee-Attrition.git)
   
 2. Install the required libraries:
    ```bash
